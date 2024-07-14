@@ -6,7 +6,7 @@ using namespace std;
 
 int main ()
 {
-    int a, b, resultado;
+    long long int a, b, resultado;
     string x;
     
     cout << "mod ou multiplicação?" << endl;
